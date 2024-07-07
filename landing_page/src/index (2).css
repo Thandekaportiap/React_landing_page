@@ -1,0 +1,41 @@
+body {
+    height: 95vh;
+    box-sizing: border-box;
+    margin: 4px;
+    padding: 2px;
+}
+li {
+    list-style: none;
+}
+
+
+.card {
+border: solid 1px black;
+border-radius: 2px;
+width: 30%;
+height: 50%;
+background-image: radial-gradient(green,white,white);
+
+}
+
+.btn {
+    background-color: black;
+    color: bisque;
+    pad: 14px 16px;
+}
+img {
+    background-color: radial-gradient(green,white,white);
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    position: absolute;
+    bottom: 0;
+    left: 12%;
+    border: solid 2px darkolivegreen;
+    width: 70%;
+    height: 30%;
+    background-color: lightgreen;
+}

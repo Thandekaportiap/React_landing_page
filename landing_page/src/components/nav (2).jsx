@@ -6,7 +6,7 @@ import { BiSolidBellRing } from 'react-icons/bi';
 export default function nav() {
   return (
     <div>
-      <ul style={{display:"flex" , flexDirection: "row",alignItems:"flex-start", justifyContent:"space-evenly"}}>
+      <ul style={{display:"flex" , flexDirection: "row",alignItems:"flex-start"}}>
         <li><FaBorderAll size={40}/></li>
         <li><BiSolidShoppingBag size={40}/></li>
         <li><BiSolidBellRing size={40}/></li>
