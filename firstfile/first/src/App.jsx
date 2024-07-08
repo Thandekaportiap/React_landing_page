@@ -1,6 +1,6 @@
 import Nav from "./components/nav";
 import Hero from "./components/hero";
-import Sidebar from "./components/sidebar";
+import Sidebar from "./components/sidebar"
 import Footer from "./components/footer";
 
 import React from "react";

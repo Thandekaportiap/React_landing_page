@@ -1,4 +1,4 @@
-import Hoodie from "../assets/hoodie.jpg"
+import Hoodie from "../assets/hoodie.jfif"
 
 import React from 'react'
 
